@@ -1,0 +1,389 @@
+{
+  "movieSlots": {
+    "m1": [
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc1",
+          "row": 10,
+          "screenLabel": "Screen 1"
+        },
+        "timings": "9am to 11am"
+      },
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc2",
+          "row": 10,
+          "screenLabel": "Screen 2(IMAX)"
+        },
+        "timings": "2pm to 4pm"
+      },
+      {
+        "date": "19/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc1",
+          "row": 10,
+          "screenLabel": "Screen 1"
+        },
+        "timings": "9am to 11am"
+      }
+    ],
+    "m2": [
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc2",
+          "row": 10,
+          "screenLabel": "Screen 2(IMAX)"
+        },
+        "timings": "9am to 11am"
+      },
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc1",
+          "row": 10,
+          "screenLabel": "Screen 1"
+        },
+        "timings": "2pm to 4pm"
+      },
+      {
+        "date": "19/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc2",
+          "row": 10,
+          "screenLabel": "Screen 2(IMAX)"
+        },
+        "timings": "9am to 11am"
+      }
+    ],
+    "m3": [
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc1",
+          "row": 10,
+          "screenLabel": "Screen 1"
+        },
+        "timings": "9am to 11am"
+      },
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc2",
+          "row": 10,
+          "screenLabel": "Screen 2(IMAX)"
+        },
+        "timings": "2pm to 4pm"
+      },
+      {
+        "date": "19/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc1",
+          "row": 10,
+          "screenLabel": "Screen 1"
+        },
+        "timings": "9am to 11am"
+      }
+    ],
+    "m4": [
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc2",
+          "row": 10,
+          "screenLabel": "Screen 2(IMAX)"
+        },
+        "timings": "9am to 11am"
+      },
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc1",
+          "row": 10,
+          "screenLabel": "Screen 1"
+        },
+        "timings": "2pm to 4pm"
+      },
+      {
+        "date": "19/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc1",
+          "row": 10,
+          "screenLabel": "Screen 1"
+        },
+        "timings": "9am to 11am"
+      }
+    ],
+    "m5": [
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc2",
+          "row": 10,
+          "screenLabel": "Screen 2(IMAX)"
+        },
+        "timings": "9am to 11am"
+      },
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc1",
+          "row": 10,
+          "screenLabel": "Screen 1"
+        },
+        "timings": "2pm to 4pm"
+      },
+      {
+        "date": "19/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc2",
+          "row": 10,
+          "screenLabel": "Screen 2(IMAX)"
+        },
+        "timings": "9am to 11am"
+      }
+    ],
+    "m6": [
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc1",
+          "row": 10,
+          "screenLabel": "Screen 1"
+        },
+        "timings": "9am to 11am"
+      },
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc2",
+          "row": 10,
+          "screenLabel": "Screen 2(IMAX)"
+        },
+        "timings": "2pm to 4pm"
+      },
+      {
+        "date": "19/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc1",
+          "row": 10,
+          "screenLabel": "Screen 1"
+        },
+        "timings": "9am to 11am"
+      }
+    ],
+    "m7": [
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc2",
+          "row": 10,
+          "screenLabel": "Screen 2(IMAX)"
+        },
+        "timings": "9am to 11am"
+      },
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc1",
+          "row": 10,
+          "screenLabel": "Screen 1"
+        },
+        "timings": "2pm to 4pm"
+      },
+      {
+        "date": "19/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc2",
+          "row": 10,
+          "screenLabel": "Screen 2(IMAX)"
+        },
+        "timings": "9am to 11am"
+      }
+    ],
+    "m8": [
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc1",
+          "row": 10,
+          "screenLabel": "Screen 1"
+        },
+        "timings": "9am to 11am"
+      },
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc2",
+          "row": 10,
+          "screenLabel": "Screen 2(IMAX)"
+        },
+        "timings": "2pm to 4pm"
+      },
+      {
+        "date": "19/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc1",
+          "row": 10,
+          "screenLabel": "Screen 1"
+        },
+        "timings": "9am to 11am"
+      }
+    ],
+    "m9": [
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc2",
+          "row": 10,
+          "screenLabel": "Screen 2(IMAX)"
+        },
+        "timings": "9am to 11am"
+      },
+      {
+        "date": "18/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc1",
+          "row": 10,
+          "screenLabel": "Screen 1"
+        },
+        "timings": "2pm to 4pm"
+      },
+      {
+        "date": "19/05/2020",
+        "screen": {
+          "col": 10,
+          "id": "sc2",
+          "row": 10,
+          "screenLabel": "Screen 2(IMAX)"
+        },
+        "timings": "9am to 11am"
+      }
+    ]
+  },
+  "movies": {
+    "m1": {
+      "category": 1,
+      "cover": "https://i.ytimg.com/vi/ICAC8Yk6ZXo/maxresdefault.jpg",
+      "description": "This is the story of the amazing spiderman",
+      "isTicketAvailable": true,
+      "rateing": 4.9,
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spider-Man_theatrical_poster.jpeg",
+      "title": "Amazing spiderman"
+    },
+    "m2": {
+      "category": 3,
+      "cover": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/48/1480508469-harry-potter-in-90-minutes-1480436463.jpg",
+      "description": "This is the story of the little boy Harry",
+      "isTicketAvailable": true,
+      "rateing": 4.5,
+      "thumbnail": "https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/harry_potter_8film_2000x3000.jpg",
+      "title": "Harry potter"
+    },
+    "m3": {
+      "category": 3,
+      "cover": "https://i.ytimg.com/vi/1LQco5A4KNU/maxresdefault.jpg",
+      "description": "This is all about raceing!",
+      "isTicketAvailable": true,
+      "rateing": 4.6,
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/2d/The_Fate_of_The_Furious_Theatrical_Poster.jpg",
+      "title": "Fast and furious"
+    },
+    "m4": {
+      "category": 2,
+      "cover": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1513982397/171220-ryan-home-alone-tease_zntomw",
+      "description": "He is home alone!",
+      "isTicketAvailable": true,
+      "rateing": 4.3,
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/76/Home_alone_poster.jpg",
+      "title": "Home Alone"
+    },
+    "m5": {
+      "category": 2,
+      "cover": "https://in.bookmyshow.com/entertainment/wp-content/uploads/2018/09/960x540_1-1.jpg",
+      "description": "Really funny movie!",
+      "isTicketAvailable": true,
+      "rateing": 4.6,
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg",
+      "title": "Johnny English"
+    },
+    "m6": {
+      "category": 1,
+      "cover": "https://images.indianexpress.com/2019/04/iron-man-avengers-1200.jpeg",
+      "description": "The story of Iron man!",
+      "isTicketAvailable": true,
+      "rateing": 4.2,
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/00/Iron_Man_poster.jpg",
+      "title": "Iron Man"
+    },
+    "m7": {
+      "category": 1,
+      "cover": "https://filmschoolrejects.com/wp-content/uploads/2019/08/commentary-avengers-endgame-1280x720.jpg",
+      "description": "It is the end of the game",
+      "isTicketAvailable": true,
+      "rateing": 4.3,
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+      "title": "End game"
+    },
+    "m8": {
+      "category": 3,
+      "cover": "https://filmschoolrejects.com/wp-content/uploads/2019/05/annabelle-1280x720.jpg",
+      "description": "Very Scarry!",
+      "isTicketAvailable": true,
+      "rateing": 4.5,
+      "thumbnail": "https://lh3.googleusercontent.com/QVxRkggnOWcUs7D5c1DfHpxsl7mdfigBDgXM3LUaibIVnAaxFxW7Nf8nXC-xJrmtJzI",
+      "title": "Anabella"
+    },
+    "m9": {
+      "category": 3,
+      "cover": "https://i.ytimg.com/vi/OsocSiz54gM/maxresdefault.jpg",
+      "description": "Very very Scarry!",
+      "isTicketAvailable": true,
+      "rateing": 4.3,
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b4/Curse_of_Chucky.jpg",
+      "title": "Curse of Chucky"
+    }
+  },
+  "screens": [
+    {
+      "col": 10,
+      "id": "sc1",
+      "row": 10,
+      "screenLabel": "Screen 1"
+    },
+    {
+      "col": 10,
+      "id": "sc2",
+      "row": 10,
+      "screenLabel": "Screen 2(IMAX)"
+    }
+  ]
+}
