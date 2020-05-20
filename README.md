@@ -2,6 +2,9 @@
 
 A sample app build using [flutter](https://www.flutter.dev) & [firebase](https://firebase.google.com)
 
+## 👾 Preview
+[VIEW PREVIEW](https://siddeshrocks.in/learn/projects/flutter_movies_app/#-preview)
+
 ## 🤑 Getting Started
 ### Step 1: Clone the project
 First clone this repository using git
